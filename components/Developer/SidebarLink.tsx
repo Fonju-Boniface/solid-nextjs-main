@@ -2,8 +2,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import { RiDiscordFill, RiFacebookFill, RiGithubFill, RiLinkedinFill } from "react-icons/ri";
-import { BiPhoneCall } from "react-icons/bi";
-import { CiMail } from "react-icons/ci";
 
 const SidebarLink = () => {
   return (

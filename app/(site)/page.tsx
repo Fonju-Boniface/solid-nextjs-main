@@ -10,11 +10,7 @@ import CTA from "@/components/CTA";
 import FAQ from "@/components/FAQ";
 import Pricing from "@/components/Pricing";
 import Contact from "@/components/Contact";
-// import Blog from "@/components/Developer";
 import Testimonial from "@/components/Testimonial";
-import Test from "@/components/Test";
-// import TextSanity from "@/components/TextSanity";
-import BlogPage from "./BlogPosts";
 import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
